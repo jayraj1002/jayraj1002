@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayraj
 - 👀 I’m interested in Data science and web development
-- 🌱 I’m currently learning Python for data science 
+- 🌱 I’m currently learning full stack web development using react, dot net and sql
 - 📫 How to reach me - jayrajvagahsiya1002@gmail.com
 
 <!---
